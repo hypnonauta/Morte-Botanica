@@ -115,6 +115,7 @@ body {
 
 .discography ul {
     width: 100%;
+    list-style: none;
 }
 
 .discography a {
@@ -151,6 +152,10 @@ body {
     margin-top: 5px;
     margin-bottom: 20px;
     height: auto;
+}
+
+.about ul {
+    list-style: none;
 }
 
 .about-intro-section p {
